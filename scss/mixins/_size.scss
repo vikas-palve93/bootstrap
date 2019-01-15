@@ -3,4 +3,8 @@
 @mixin size($width, $height: $width) {
   width: $width;
   height: $height;
+
+  @if ($ignore-warning != true) {
+    @warn "The `size()` mixin has been deprecated as of v4.3.0. It will be removed entirely in v5.";
+  }
 }
