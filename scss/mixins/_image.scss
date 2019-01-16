@@ -32,4 +32,8 @@
     background-image: url($file-2x);
     background-size: $width-1x $height-1x;
   }
+
+  @if ($ignore-warning != true) {
+    @warn "The `img-retina()` mixin has been deprecated as of v4.3.0. It will be removed entirely in v5.";
+  }
 }
