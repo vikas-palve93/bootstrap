@@ -1,0 +1,39 @@
+changed setting icon
+changed  project component icon
+changed  project component drop down icon
+Added i icon on project dashboard.
+
+Changed filter button icon.
+chnaged folder icon.
+chanhed minar icon 
+changed code smell icon.
+bug, vulnerability, blocker,info
+file-icon, red cross,
+warning, cicle-checked,
+notification_bell
+changed setting icon
+changed  project component icon
+changed  project component drop down icon
+Added i icon on project dashboard.
+
+Changed filter button icon.
+chnaged folder icon.
+chanhed minar icon 
+changed code smell icon.
+bug, vulnerability, blocker,info
+file-icon, red cross,
+warning, cicle-checked,
+notification_bell
+changed setting icon
+changed  project component icon
+changed  project component drop down icon
+Added i icon on project dashboard.
+
+Changed filter button icon.
+chnaged folder icon.
+chanhed minar icon 
+changed code smell icon.
+bug, vulnerability, blocker,info
+file-icon, red cross,
+warning, cicle-checked,
+notification_bell
